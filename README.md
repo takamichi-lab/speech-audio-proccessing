@@ -3,7 +3,7 @@
 
 
 ## 2025
-- [01 - introduction](2025/01 - introduction.pdf)
+- [01 - introduction](https://github.com/takamichi-lab/speech-audio-proccessing/2025/01.pdf)
 - [02 - speech production]()
 - [03 - speech synthesis]()
 - [04 - speech synthesis 2]()
