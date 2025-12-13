@@ -1,4 +1,4 @@
-# Speech and Audio Processing (Leactures in graduate school in Keio University)
+# Speech and Audio Processing (Lectures in graduate school in Keio University)
 慶應義塾大学 理工学研究科講義 "音声音響工学特論"
 
 
