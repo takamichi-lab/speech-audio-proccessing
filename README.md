@@ -1,7 +1,7 @@
 # Speech and Audio Processing (Lectures in graduate school in Keio University)
 慶應義塾大学 理工学研究科講義 "音声音響工学特論"
 
-- [01: introduction / イントロダクション](https://github.com/takamichi-lab.github.io/speech-audio-proccessing/blob/main/2026/01.pdf)
+- [01: introduction / イントロダクション](https://takamichi-lab.github.io/speech-audio-proccessing/2026/01.pdf)
 - 02: speech production / 音声生成
 - 03: machine learning / 機械学習
 - 04: speech synthesis / 音声合成
