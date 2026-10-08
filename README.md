@@ -2,7 +2,7 @@
 慶應義塾大学 理工学研究科講義 "音声音響工学特論"
 
 - [01: introduction / イントロダクション](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/01.pdf)
-- 02: speech production / 音声生成
+- [02: speech production / 音声生成](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/02%20-%20speech%20production.pdf)
 - 03: machine learning / 機械学習
 - 04: speech synthesis / 音声合成
 - 05: speech recognition / 音声認識
