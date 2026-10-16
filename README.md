@@ -3,7 +3,7 @@
 
 - [01: introduction / イントロダクション](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/01.pdf)
 - [02: speech production / 音声生成](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/02%20-%20speech%20production.pdf)
-- 03: machine learning / 機械学習
+- [03: speech analysis and deep learning / 音声分析と深層学習](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/03%20-%20speech%20analysis%20and%20deep%20learning.pdf)
 - 04: speech synthesis / 音声合成
 - 05: speech recognition / 音声認識
 - 06: self-supervised learning / 自己教師あり学習
