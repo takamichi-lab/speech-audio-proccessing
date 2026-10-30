@@ -5,11 +5,11 @@
 - [02: speech production / 音声生成](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/02%20-%20speech%20production.pdf)
 - [03: speech analysis and deep learning / 音声分析と深層学習](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/03%20-%20speech%20analysis%20and%20deep%20learning.pdf)
 - [04: speech synthesis / 音声合成](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/04%20-%20speech%20synthesis.pdf)
-- 05: speech recognition / 音声認識
-- 06: self-supervised learning / 自己教師あり学習
-- 07: foundation models / 基盤モデル
-- 08: (TBA)
-- 09: (TBA)
+- [05: speech recognition / 音声認識](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/05%20-%20speech%20recognition.pdf)
+- 06: guest talk 1 / ゲストトーク 1
+- 07: self-supervised learning / 自己教師あり学習
+- 08: foundation models / 基盤モデル
+- 09: guest talk 2 / ゲストトーク 2
 - 10: instruction for final projects / 最終プロジェクトの説明
 - 11: final projects / 最終プロジェクト
 - 12: final projects / 最終プロジェクト
