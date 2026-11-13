@@ -7,7 +7,7 @@
 - [04: speech synthesis / 音声合成](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/04%20-%20speech%20synthesis.pdf)
 - [05: speech recognition / 音声認識](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/05%20-%20speech%20recognition.pdf)
 - 06: guest talk 1 / ゲストトーク 1 (slides on K-LMS)
-- 07: self-supervised learning / 自己教師あり学習
+- [07: self-supervised learning / 自己教師あり学習](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2026/07%20-%20self-supervised%20learning.pdf)
 - 08: foundation models / 基盤モデル
 - 09: guest talk 2 / ゲストトーク 2
 - 10: instruction for final projects / 最終プロジェクトの説明
@@ -18,3 +18,4 @@
 
 ## Past lectures
 - [2025](https://github.com/takamichi-lab/speech-audio-proccessing/blob/main/2025/)
+
